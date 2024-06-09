@@ -1,0 +1,7 @@
+E:\OneDrive - Mediadesign Hochschule für Design und Informatik\Documents\Progra\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+E:\OneDrive - Mediadesign Hochschule für Design und Informatik\Documents\Progra\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+E:\OneDrive - Mediadesign Hochschule für Design und Informatik\Documents\Progra\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+E:\OneDrive - Mediadesign Hochschule für Design und Informatik\Documents\Progra\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.AssemblyReference.cache
+E:\OneDrive - Mediadesign Hochschule für Design und Informatik\Documents\Progra\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+E:\OneDrive - Mediadesign Hochschule für Design und Informatik\Documents\Progra\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+E:\OneDrive - Mediadesign Hochschule für Design und Informatik\Documents\Progra\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
